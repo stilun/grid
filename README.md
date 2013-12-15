@@ -1,3 +1,3 @@
 My MVC project in Lydia.
 ==============================
-Modeller för innehåll
+CSS-ramverk och grid layout
